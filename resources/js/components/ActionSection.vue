@@ -7,7 +7,7 @@ import SectionTitle from './SectionTitle.vue';
         <SectionTitle>
             <template #title>
                 <slot name="title" />
-            </template>
+            </template> .
             <template #description>
                 <slot name="description" />
             </template>
